@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/terminal/static/css/main.6efbaed9.chunk.css",
+    "main.js": "/terminal/static/js/main.7b2ff74d.chunk.js",
+    "main.js.map": "/terminal/static/js/main.7b2ff74d.chunk.js.map",
+    "runtime-main.js": "/terminal/static/js/runtime-main.54a220a0.js",
+    "runtime-main.js.map": "/terminal/static/js/runtime-main.54a220a0.js.map",
+    "static/js/2.dd0234ae.chunk.js": "/terminal/static/js/2.dd0234ae.chunk.js",
+    "static/js/2.dd0234ae.chunk.js.map": "/terminal/static/js/2.dd0234ae.chunk.js.map",
+    "static/js/3.b4738b16.chunk.js": "/terminal/static/js/3.b4738b16.chunk.js",
+    "static/js/3.b4738b16.chunk.js.map": "/terminal/static/js/3.b4738b16.chunk.js.map",
+    "index.html": "/terminal/index.html",
+    "precache-manifest.20c8cd402c755abc81961e29c7b76c57.js": "/terminal/precache-manifest.20c8cd402c755abc81961e29c7b76c57.js",
+    "service-worker.js": "/terminal/service-worker.js",
+    "static/css/main.6efbaed9.chunk.css.map": "/terminal/static/css/main.6efbaed9.chunk.css.map",
+    "static/js/2.dd0234ae.chunk.js.LICENSE.txt": "/terminal/static/js/2.dd0234ae.chunk.js.LICENSE.txt",
+    "static/media/blue_mono.css": "/terminal/static/media/35EDD2_1_0.1657cf6e.woff2",
+    "static/media/Josh_Loftis_copy-min.jpg": "/terminal/static/media/Josh_Loftis_copy-min.120e9450.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54a220a0.js",
+    "static/js/2.dd0234ae.chunk.js",
+    "static/css/main.6efbaed9.chunk.css",
+    "static/js/main.7b2ff74d.chunk.js"
+  ]
+}
