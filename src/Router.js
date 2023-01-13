@@ -7,9 +7,9 @@ import NotFound from "./pages/NotFound";
 
 export default () => (
   <>
-    <BrowserRouter basename="/terminal">
+    <BrowserRouter>
       <Switch>
-        <Route exact path="/">
+        <Route>
           {window.innerWidth < 600 ? <Redirect to="/home" /> : <TerminalApp />}
         </Route>
         <Route exact path="/home" component={Home} />
