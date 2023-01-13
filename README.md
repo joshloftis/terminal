@@ -7,7 +7,7 @@ Ovetime, I plan to add more to the overall buildout to both the MainApp and the 
 Feel to pull this down and play with it yourself.
 
 ```
-git clone git@github.com:joshloftis/personal-site.git
+git clone git@github.com:joshloftis/terminal.git
 ```
 
 ### Getting started
@@ -15,8 +15,8 @@ git clone git@github.com:joshloftis/personal-site.git
 To get started:
 
 ```
-git clone git@github.com:joshloftus/personal-site.git
-cd personal-site
+git clone git@github.com:joshloftis/terminal.git
+cd terminal
 npm install
 OR
 yarn install
