@@ -1,0 +1,43 @@
+{
+  "defaults": {
+    "about": [
+      [
+        "Hi, I'm Josh, a",
+        "at"
+      ],
+      "I'm a former software developer with a deep interest in the product development lifecycle. I love to code, design, read, and watch movies."
+    ],
+    "contact": [
+      "Email: josh.a.loftis@gmail.com",
+      "Website: https://joshloftis.com (PS You're already here 😃)",
+      "LinkedIn: /in/joshloftis",
+      "GitHub: @joshloftis"
+    ],
+    "company": "Around by Miro Labs",
+    "job": "Sr. Product Manager",
+    "skills": [
+      "Languages:",
+      "HTML",
+      "CSS",
+      "Ruby",
+      "JavaScript",
+      "",
+      "Libraries/Frameworks:",
+      "Node",
+      "Rails",
+      "Express",
+      "React",
+      "Next",
+      "Redux",
+      "jQuery",
+      "",
+      "Other:",
+      "Git",
+      "GitHub",
+      "Heroku",
+      "CodeSandBox",
+      "Firebase"
+    ],
+    "url": "https://www.around.co"
+  }
+}

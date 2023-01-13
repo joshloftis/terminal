@@ -1,0 +1,20 @@
+{
+  "commandHistory": [],
+  "commandHistoryIndex": 0,
+  "title": "JOSH LOFTIS - TERMINAL EXPERIENCE",
+  "inputLineHistory": [
+    {
+      "text": "WELCOME TO TERMINAL"
+    },
+    {
+      "text": [
+        "TYPE help TO SEE A FULL LIST OF COMMANDS.",
+        " - OR -",
+        "TYPE home TO LEAVE TERMINAL AND VISIT MY NORMAL WEBPAGE"
+      ],
+      "includeVerticalSpace": true
+    }
+  ],
+  "userInput": "",
+  "isMobile": false
+}

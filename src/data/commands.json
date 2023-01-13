@@ -1,0 +1,85 @@
+[
+  {
+    "command": "help",
+    "purpose": "Provides help information for React Terminal commands."
+  },
+  {
+    "command": "date",
+    "purpose": "Displays the current date."
+  },
+  {
+    "command": "start",
+    "purpose": "Launches a specified URL in a new tab or separate window.",
+    "help": [
+      "START <URL>",
+      "Launches a specified URL in a new tab or separate window.",
+      "",
+      "URL......................The website you want to open."
+    ]
+  },
+  {
+    "command": "hello",
+    "purpose": "Responds hello to the user.",
+    "help": [
+      "HELLO <NAME>",
+      "Responds hello to the user.",
+      "",
+      "NAME......................Returns a hello response to the user with the specified name."
+    ]
+  },
+  {
+    "command": "echo",
+    "purpose": "Returns the exact input to the user.",
+    "help": [
+      "ECHO <INPUT>",
+      "Returns the exact input to the user.",
+      "",
+      "INPUT......................Returns the typed input to the user as it was typed."
+    ]
+  },
+  {
+    "command": "clear",
+    "purpose": "Clears the screen."
+  },
+  {
+    "command": "home",
+    "purpose": "Quits the React Terminal and returns to Josh's portfolio page."
+  },
+  {
+    "command": "time",
+    "purpose": "Displays the current time."
+  },
+  {
+    "command": "reset",
+    "purpose": "Resets terminal to the original state."
+  },
+  {
+    "command": "whoami",
+    "purpose": "A philophical query."
+  },
+  {
+    "command": "about",
+    "isMain": true,
+    "purpose": "Displays basic information about Josh."
+  },
+  {
+    "command": "skills",
+    "isMain": true,
+    "purpose": "Displays information about Josh's skills."
+  },
+  {
+    "command": "contact",
+    "isMain": true,
+    "purpose": "Displays contact information for Josh."
+  },
+  {
+    "command": "title",
+    "purpose": "Sets the window title for the React Terminal.",
+    "help": [
+      "TITLE <INPUT>",
+      "Sets the window title for the React Terminal.",
+      "",
+      "INPUT....................The title you want to use for the React Terminal window."
+    ]
+  }
+]

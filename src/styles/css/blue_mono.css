@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Blue_Mono';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../font/35EDD2_0_0.woff2');
+}
+
+@font-face {
+  font-family: 'Blue_Mono';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../font/35EDD2_1_0.woff2') format('woff2');
+}
